@@ -7,7 +7,7 @@ correct color for the FIRST logo build!
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) to run the script
 
-2. install the script at this link: [https://github.com/7603J/FIRST-r-place-Overlay/raw/main/FIRST%20r-place%20overlay.user.js]
+2. install the script at this link: https://github.com/7603J/FIRST-r-place-Overlay/raw/main/FIRST%20r-place%20overlay.user.js.
 If this works correctly, Tampermonkey will open and offer to install the script. Click install
 
 3. Open [r/place](https://www.reddit.com/r/place/?cx=1163&cy=1611&px=26), if already opened, refresh the page.
