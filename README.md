@@ -1,6 +1,6 @@
 # FIRST r/place Overlay
 Thanks for helping everyone!
-This script uses the chrome extension tampermonkey in order to overlay r/place with a dot cooresponding to the 
+This script uses the chrome extension tampermonkey in order to overlay r/place with a dot corresponding to the 
 correct color for the FIRST logo build!
 
 ##Installation Steps
